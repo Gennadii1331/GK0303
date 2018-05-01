@@ -1,0 +1,25 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: $baseFontFamily;
+  min-height: 100%;
+  height: 100%;
+  border: 1px solid green;
+}
+
+body, h1,h2, h3, h4, ul, ol, p {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
